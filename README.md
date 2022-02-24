@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alekusa
-- 👀 I’m interested in programing in php python sql c#
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programing in php, python, sql, c#, Dart, Flutter
+- 🌱 I’m currently learning php
 - 📫 alekusa@gmail.com
   
 
