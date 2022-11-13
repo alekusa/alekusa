@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @alekusa
-- 👀 I’m interested in programing in php, python, sql, c#, Dart, Flutter
-- 🌱 I’m currently learning php
+- 👀 I’m interested in programing in JavaScript, php, python, sql, c#, Dart, Flutter
+- 🌱 I’m currently learning JavaScript, php
 - 📫 alekusa@gmail.com
    
    
-   En estos momentos estoy cursando el ONE - Oracle Next Education.
-   
-   Con el Objetivo de encontrar un trabajo en el area del desarrollo de software.
+   Objetivo de encontrar un trabajo en el area del desarrollo de software.
+   cursando Argentina Programa 4.0
+   cursando soy Henrry.
 
 
 
