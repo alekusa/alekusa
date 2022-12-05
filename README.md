@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alekusa
 - 👀 I’m interested in programing in JavaScript, php, python, sql, c#, Dart, Flutter
-- 🌱 I’m currently learning JavaScript, php
+- Nodejs, Express, 
+- 🌱 I’m currently learning JavaScript, Node.js Express . / Backend
 - 📫 alekusa@gmail.com
    
    
