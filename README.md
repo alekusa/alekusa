@@ -3,11 +3,8 @@
 - Nodejs, Express, 
 - 🌱 I’m currently learning JavaScript, Node.js Express . / Backend
 - 📫 alekusa@gmail.com
-   
-   
-   Objetivo de encontrar un trabajo en el area del desarrollo de software.
-   actualmente en desarrollo backend./
-
+   - :file_folder: __certificados__    📁 
+      +[Argentina Programa](argentina_programa_2022.pdf)
 
 
                                                                          Desde ya Muchas gracias por leerme.
