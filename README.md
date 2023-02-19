@@ -5,6 +5,7 @@
 - 📫 alekusa@gmail.com
 - 🎓__Certificados__    
       📜 [Argentina Programa](argentina_programa_2022.pdf)
+      📜 [Python Full Stack](Python_Full_Stack.pdf)
 
 
                                                                          Desde ya Muchas gracias por leerme.
