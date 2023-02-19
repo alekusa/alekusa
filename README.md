@@ -3,14 +3,14 @@
 - Nodejs, Express, 
 - 🌱 I’m currently learning JavaScript, Node.js Express . / Backend
 - 📫 alekusa@gmail.com
-   - :file_folder: __certificados__    📁 
-      +[Argentina Programa](argentina_programa_2022.pdf)
+- 🎓__Certificados__    
+      📜 [Argentina Programa](argentina_programa_2022.pdf)
 
 
                                                                          Desde ya Muchas gracias por leerme.
                                                                             
                                                                               Alexis Daniel Kuseman
-                                                                                       Dev
+                                                                                       Dev 
                                                                                       
                                                                                        
                                                                                        
